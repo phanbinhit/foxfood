@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_4">4dp</dimen>
+    <dimen name="dimen_8">8dp</dimen>
+    <dimen name="dimen_10">10dp</dimen>
+    <dimen name="dimen_16">16dp</dimen>
+    <dimen name="dimen_20">20dp</dimen>
+    <dimen name="dimen_24">24dp</dimen>
+    <dimen name="dimen_30">30dp</dimen>
+    <dimen name="text_13">13sp</dimen>
+    <dimen name="text_17">17sp</dimen>
+    <dimen name="text_24">24sp</dimen>
+    <dimen name="text_20">20sp</dimen>
+    <dimen name="size_img_action_bar">56dp</dimen>
+    <dimen name="size_img_category">68dp</dimen>
+</resources>

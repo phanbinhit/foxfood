@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoxFood</string>
+    <string name="title_frag_home">Home</string>
+    <string name="title_frag_history">History</string>
+    <string name="title_frag_account">Account</string>
+    <string name="slogan">Just click, you will be satisfied !!!</string>
+</resources>

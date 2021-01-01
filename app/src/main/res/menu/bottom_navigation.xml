@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_navigation_home"
+        android:title="@string/title_frag_home"
+        android:icon="@drawable/ic_baseline_fastfood"
+        />
+    <item
+        android:id="@+id/bottom_navigation_history"
+        android:title="@string/title_frag_history"
+        android:icon="@drawable/ic_baseline_history"
+        />
+    <item
+        android:id="@+id/bottom_navigation_account"
+        android:title="@string/title_frag_account"
+        android:icon="@drawable/ic_baseline_person"
+        />
+</menu>
